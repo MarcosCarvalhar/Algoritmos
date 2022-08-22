@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1535645078 source:c:\users\marqu\onedrive\documentos\algoritmos\game\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1535595380 source:c:\users\marqu\onedrive\documentos\algoritmos\jogo\jogo.c
+	<stdio.h>
+	<stdlib.h>
+
+1535645281 source:c:\users\marqu\onedrive\documentos\if\algoritmos\game\main.c
+	<stdio.h>
+	<stdlib.h>
+

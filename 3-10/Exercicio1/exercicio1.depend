@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538611511 source:c:\users\marqu\onedrive\documentos\algoritmos\exercicio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

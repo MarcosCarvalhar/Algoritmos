@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1537465436 source:c:\users\aluno.campusrp-lab\desktop\lista3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1537465438 source:c:\users\marqu\onedrive\documentos\if\algoritmos\lista3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

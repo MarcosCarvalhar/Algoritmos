@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1535383655 source:c:\users\marqu\onedrive\documentos\algoritmos\exerciciobombas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1535384305 source:c:\users\marqu\onedrive\documentos\if\algoritmos\exerciciobombas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
